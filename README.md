@@ -25,16 +25,12 @@ README.md (project documentation)
 
 Sample Output:
 calculation list:
-
-Addition
-
-Subtraction
-
-Multiplication
-
-Division
-Enter your choice: _
-
+1.Addition 
+2.Subtraction
+3.Multiplication
+4.Division
+5.exit
+Enter your choice: 
 Contributing:
 You can fork this repository and improve the calculator.
 Pull requests are welcome.
